@@ -1,0 +1,14 @@
+com.example.aatest.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Chaitanya Salwan\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.aatest.app-core-1.6.0-1 C:\Users\Chaitanya Salwan\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.aatest.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Chaitanya Salwan\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.aatest.app-jetified-window-1.0.0-beta04-3 C:\Users\Chaitanya Salwan\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.aatest.app-debug-4 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\android\app\src\debug\res
+com.example.aatest.app-main-5 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\android\app\src\main\res
+com.example.aatest.app-prod-6 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\android\app\src\prod\res
+com.example.aatest.app-prodDebug-7 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\android\app\src\prodDebug\res
+com.example.aatest.app-prod-8 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\build\app\generated\res\pngs\prod\debug
+com.example.aatest.app-prod-9 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\build\app\generated\res\resValues\prod\debug
+com.example.aatest.app-prod-10 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\build\app\generated\res\rs\prod\debug
+com.example.aatest.app-mergeProdDebugResources-11 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\build\app\intermediates\incremental\prodDebug\mergeProdDebugResources\merged.dir
+com.example.aatest.app-mergeProdDebugResources-12 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\build\app\intermediates\incremental\prodDebug\mergeProdDebugResources\stripped.dir
+com.example.aatest.app-merged_res-13 C:\Users\Chaitanya Salwan\Downloads\Env set-20230425T092955Z-001\Env set\Flutter_ENV_SETUP\build\app\intermediates\merged_res\prodDebug
