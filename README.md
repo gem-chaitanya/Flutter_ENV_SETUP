@@ -1,16 +1,15 @@
-# aatest
+# FLUTTER ENVIORENMENT
 
 A new Flutter project.
 
 ## Getting Started
 
-Steps to configure Enviorenment in flutter:
+# Steps to configure Enviorenment in flutter:
 - Add these two dependencies:   
 - flutter_flavor: ^3.1.1
 - flutter_flavorizr: ^2.1.6
 - flutter_dotenv: ^5.0.2
-
-ADD THESE CONFIGURATION INSIDE PUBSPEC.YAML UNDER DEPENDENCIES
+# ADD THESE CONFIGURATION INSIDE PUBSPEC.YAML UNDER DEPENDENCIES
 
 flavorizr:
   flavors:
@@ -31,12 +30,14 @@ flavorizr:
         bundleId: "com.example.prod"
 
 
-Run this Command 
+# Run this Command 
 - flutter pub run flutter_flavorizr
 
-Add the .env.dev and .env.prod
+# Create two files in root:
+- .env.dev
+- .env.prod
 
-Add Files in Assets:
+# Add Files in Assets:
 -  assets:
     - .env.prod
     - .env.dev
