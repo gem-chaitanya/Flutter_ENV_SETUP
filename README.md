@@ -10,7 +10,7 @@ A new Flutter project.
 - flutter_flavorizr: ^2.1.6
 - flutter_dotenv: ^5.0.2
 # ADD THESE CONFIGURATION INSIDE PUBSPEC.YAML UNDER DEPENDENCIES
-copyCodeBlock('flavorizr:
+flavorizr:
   flavors:
     dev:
       app:
@@ -19,7 +19,6 @@ copyCodeBlock('flavorizr:
         applicationId: "com.example.dev"
       ios:
         bundleId: "com.example.dev"
-
     prod:
       app:
         name: "Prod"
@@ -27,7 +26,7 @@ copyCodeBlock('flavorizr:
         applicationId: "com.example.prod"
       ios:
         bundleId: "com.example.prod"
-')
+
 
 # Run this Command 
 - flutter pub run flutter_flavorizr
